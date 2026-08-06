@@ -5,7 +5,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/username/CalculatorApp.git'
+                git 'https://github.com/Ayushgupta2410/calculator.git'
             }
         }
 
